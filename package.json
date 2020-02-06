@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "cd Todos-Backend && npm start",
-    "heroku-prebuild": "cd Toods-Backend && npm i",
+    "heroku-prebuild": "cd Todos-Backend && npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
