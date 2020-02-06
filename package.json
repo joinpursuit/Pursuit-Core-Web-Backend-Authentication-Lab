@@ -4,6 +4,8 @@
   "description": "Pick one of your past Full-Stack projects, fork it if you haven't already and add user authentication to the Back-end and Front-End.",
   "main": "index.js",
   "scripts": {
+    "start": "cd Todos-Backend && npm start",
+    "heroku-prebuild": "cd Toods-Backend && npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
