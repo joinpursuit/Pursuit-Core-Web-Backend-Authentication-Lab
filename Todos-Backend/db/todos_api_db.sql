@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS todos_api_db;
-CREATE DATABASE todos_api_db;
+-- DROP DATABASE IF EXISTS todos_api_db;
+-- CREATE DATABASE todos_api_db;
 
-\c todos_api_db;
+-- \c todos_api_db;
 
 CREATE TABLE users (
   id SERIAL PRIMARY KEY,

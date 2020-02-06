@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Pick one of your past Full-Stack projects, fork it if you haven't already and add user authentication to the Back-end and Front-End.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenesh/Pursuit-Core-Web-FullStack-User-Authentication-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenesh/Pursuit-Core-Web-FullStack-User-Authentication-Lab/issues"
+  },
+  "homepage": "https://github.com/jenesh/Pursuit-Core-Web-FullStack-User-Authentication-Lab#readme"
+}
